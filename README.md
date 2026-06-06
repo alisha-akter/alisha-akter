@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Alisha Akter</h1>
+<h3 align="center">CSE Student | Jahangirnagar University</h3>
 
-<!--
-**alisha-akter/alisha-akter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Passionate about programming, problem solving, and software development.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java" />
+</p>
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,mysql,vscode,github,git" />
+</p>
+
+---
+
+## 🚀 Core Skills
+
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Database Management
+- Java Swing GUI
+- Web Development (HTML, CSS, JavaScript)
+
+---
+
+⭐ Thanks for visiting my profile!
