@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student | Jahangirnagar University</h3>
 
 <p align="center">
-  Passionate about programming, problem solving, and software development.
+  Passionate about continuous learning, problem solving, system design & software development.
 </p>
 
 ---
