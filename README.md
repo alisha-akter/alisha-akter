@@ -2,7 +2,7 @@
 <h3 align="center">CSE Student | Jahangirnagar University</h3>
 
 <p align="center">
-  Passionate about continuous learning & exploring emerging technologies.
+  Passionate about continuous learning and exploring emerging technologies.
 </p>
 
 ---
